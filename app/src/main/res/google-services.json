@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "886163235453",
+    "firebase_url": "https://mobioticstest-d100f.firebaseio.com",
+    "project_id": "mobioticstest-d100f",
+    "storage_bucket": "mobioticstest-d100f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886163235453:android:75e3380f87ed6091",
+        "android_client_info": {
+          "package_name": "com.example.mobioticstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886163235453-f5sj1p4ohg70vq7lkn42jc1qgc1r90f1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobioticstest",
+            "certificate_hash": "f992eac2d8fc8dbcdd5508d003a2fefe39e0c0c3"
+          }
+        },
+        {
+          "client_id": "886163235453-4ekiinr9o8mbeqsv99hr3ha3ir30q8tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzaEMcOP8mGWcsvt-ug-WqR-OVi79-JNY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886163235453-4ekiinr9o8mbeqsv99hr3ha3ir30q8tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
